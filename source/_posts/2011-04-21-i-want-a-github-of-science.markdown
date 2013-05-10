@@ -5,7 +5,7 @@ date: 2011-04-21 17:05
 comments: true
 sharing: true
 footer: true
-permalink: i-want-a-github-of-science/
+permalink: /i-want-a-github-of-science/
 ---            
 
 {% img /images/profzi_scheme.gif "Piled Higher and Deeper" by Jorge Cham %}
