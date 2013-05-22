@@ -9,6 +9,11 @@
   padding: 10px !important
 }
 
+.search_area {
+	margin-bottom: 20px;
+	text-indent: 10px;
+}
+
 h2.sections_title {
   margin: 0;
   padding: 0;
