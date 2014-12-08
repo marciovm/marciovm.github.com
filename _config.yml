@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://marciovm.com
+url: http://marciovm.github.io
 title: Marcio von Muhlen
 subtitle: Thoughts to Bits
-author: Marcio von Muhlen
+author: 
 simple_search: 
 description:
 
@@ -68,7 +68,7 @@ twitter_user: marciovm
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: true
+google_plus_one: 
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -85,7 +85,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: marciovm
+disqus_short_name: 
 disqus_show_comment_count: false
 
 # Google Analytics
