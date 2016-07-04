@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-	<Say voice="woman" language="en">Hello, how are you feeling?</Say>
+	<Say voice="woman" language="en">Hello Virginia, this is your personal health assistant. Please tell me on a scale of 0 to 10 how well you are feeling right now (10 is best), then hang up.</Say>
     <Record timeout="10" transcribe="true" />
 </Response>
