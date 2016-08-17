@@ -2,4 +2,5 @@
 <Say voice="alice">
 Hello, it's Jane. Please leave a message after the beep with your name and phone number, and we'll get back to you. 
 </Say>
+<Record transcribe="false" />
 </Response>
