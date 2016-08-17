@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-	<Say voice="woman" language="en">Hello Virginia, this is your reminder call to write down how you're feeling today. If you have any questions, you can leave a message after the tone and we'll get back to you soon.</Say>
+	<Say voice="woman" language="en">Hello Virginia, this is your reminder call to write down how you're feeling today. Leave feedback after the beep. Marcio loves you!</Say>
     <Record transcribe="true" />
 </Response>
