@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say voice="woman" language="en">Hello Marcio.</Say>
+	<Play>http://marciovm.com/EnzoUrso.mp3</Play>
+    <Record transcribe="false" />
+</Response>
