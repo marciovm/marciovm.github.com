@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-	<Say voice="woman" language="en">Hello Marcio, this is your reminder call to write down how you're feeling today.</Say>
-    <Record transcribe="true" />
-</Response>
