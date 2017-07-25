@@ -4,6 +4,6 @@ Thanks for calling Rialta Health!
 </Say>
 <Pause length="1"/>
 <Say voice="alice">
-Our telephony is under construction. Please email us at value@rialtahealth.com and we'll respond shortly.
+Our telephony is under construction. Please email us at value@rialtahealth.com and we'll respond shortly. Thank you and have a great day.
 </Say>
 </Response>
