@@ -38,7 +38,7 @@ a,a:hover {
 }
 
 a:hover {
-    font-weight: 700;
+    color: blue;
 }
 
 .container-fluid {
