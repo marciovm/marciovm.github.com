@@ -1,7 +1,46 @@
 body {
     font-family: 'Muli', 'light';
-    background-color: #f4f4eb
+    /* Location of the image */
+    background-image: url('../brett-jordan-BQ1S5jS20S0-unsplash.jpg');
+
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+
+    /* Background image is fixed in the viewport so that it doesn't move when
+      the content's height is greater than the image's height */
+    background-attachment: fixed;
+
+    /* This is what makes the background image rescale based
+      on the container's size */
+    background-size: cover;
+
+    /* Set a background color that will be displayed
+      while the background image is loading */
+     background-color: #000;
+    background-size: cover;
 }
+
+.photo-credit {
+  margin-top: 1px;
+  font-size: 9px;
+  padding-left: 3px;
+}
+
+.white-background {
+  background-color: #fff;
+  opacity: 90%;
+}
+
+.post {
+  background-color: #fff;
+  padding: 15px;
+  margin-left: auto;
+  opacity: 95%;
+}
+
 .divider {
     margin: 0 auto;
     margin-bottom: 1em;
@@ -17,8 +56,14 @@ a,a:hover {
 }
 
 .container-fluid {
-  max-width: 730px;
-	margin-right: auto;
+  max-width: 342px;
+  margin-right: auto;
+}
+
+.container-fluid-post {
+  margin-top: 200px;
+  max-width: 600px;
+  margin-right: auto;
   margin-left: auto;
 }
 
@@ -28,6 +73,10 @@ a,a:hover {
   width: 30px;
   text-align: center;
   text-decoration: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  opacity: 100%;
 }
 
 .fa:hover {
