@@ -23,10 +23,18 @@ body {
     background-size: cover;
 }
 
+.mug-shot {
+  width: 90px;
+  display: inline;
+}
+
+.mug-title {
+  display: inline;
+}
+
 .photo-credit {
   margin-top: 1px;
   font-size: 12px;
-  padding-left: 3px;
 }
 
 .white-background {
@@ -56,9 +64,11 @@ a,a:hover {
 }
 
 .container-fluid {
+  margin-top: 2px;
   max-width: 290px;
   margin-right: auto;
   position: fixed;
+  z-index: 9999;
 }
 
 .container-fluid-post {
