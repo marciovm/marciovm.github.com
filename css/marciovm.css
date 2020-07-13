@@ -25,20 +25,20 @@ body {
 
 .photo-credit {
   margin-top: 1px;
-  font-size: 9px;
+  font-size: 12px;
   padding-left: 3px;
 }
 
 .white-background {
   background-color: #fff;
-  opacity: 90%;
+  opacity: 98%;
 }
 
 .post {
   background-color: #fff;
-  padding: 15px;
+  padding: 25px;
   margin-left: auto;
-  opacity: 95%;
+  opacity: 98%;
 }
 
 .divider {
@@ -56,12 +56,13 @@ a,a:hover {
 }
 
 .container-fluid {
-  max-width: 342px;
+  max-width: 290px;
   margin-right: auto;
+  position: fixed;
 }
 
 .container-fluid-post {
-  margin-top: 200px;
+  margin-top: 10px;
   max-width: 600px;
   margin-right: auto;
   margin-left: auto;
@@ -98,10 +99,11 @@ a,a:hover {
   color: white;
 }
 
-.fa-linkedin {
-  background: #007bb5;
+.fa-map-signs {
+  background: black;
   color: white;
 }
+
 
 .fa-instagram {
   background: #125688;
@@ -111,4 +113,10 @@ a,a:hover {
 .fa-quora {
   background: #bb0000;
   color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  margin-right: 3px; /* last one */
 }
